@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+snacks
+burger
+pizza
+=======
+SpiderMan1
+SpiderMan2
+SpiderMan3
+>>>>>>> movie
